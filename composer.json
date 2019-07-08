@@ -16,5 +16,7 @@
     "psr-4": {
       "andruavm\\random\\": "src/andruavm/random/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
