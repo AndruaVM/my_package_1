@@ -13,5 +13,3 @@ class RandomSymbol
         return chr(mt_rand(0,1000));
     }
 }
-
-echo (new RandomSymbol())->getSymbol();
